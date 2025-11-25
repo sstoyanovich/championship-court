@@ -1,0 +1,14 @@
+{
+  "name": "nba-2k-scraper",
+  "version": "1.0.0",
+  "description": "Scrape NBA player ratings from 2kratings.com",
+  "main": "scrape_2k_with_puppeteer.js",
+  "scripts": {
+    "scrape": "node scrape_2k_with_puppeteer.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "sqlite3": "^5.1.6"
+  }
+}
+

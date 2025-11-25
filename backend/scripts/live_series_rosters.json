@@ -1,0 +1,1168 @@
+{
+  "Cleveland Cavaliers": [
+    {
+      "name": "Donovan Mitchell",
+      "overall_rating": 93,
+      "position": "SG/PG",
+      "height": "6'3\"",
+      "archetype": "Aerial Playmaker",
+      "jersey_number": "15"
+    },
+    {
+      "name": "Evan Mobley",
+      "overall_rating": 89,
+      "position": "PF/C",
+      "height": "6'11\"",
+      "archetype": "Backline Crafty Paint Finisher",
+      "jersey_number": "23"
+    },
+    {
+      "name": "Darius Garland",
+      "overall_rating": 87,
+      "position": "PG/SG",
+      "height": "6'1\"",
+      "archetype": "Crafty Offensive Engine",
+      "jersey_number": "15"
+    },
+    {
+      "name": "Jarrett Allen",
+      "overall_rating": 84,
+      "position": "C",
+      "height": "6'9\"",
+      "archetype": "2-Way Crafty Mid-Paint Cleaner",
+      "jersey_number": "13"
+    },
+    {
+      "name": "De'Andre Hunter",
+      "overall_rating": 80,
+      "position": "PF/SF",
+      "height": "6'8\"",
+      "archetype": "2-Way Crafty Sharpshooter",
+      "jersey_number": "9"
+    },
+    {
+      "name": "Lonzo Ball",
+      "overall_rating": 78,
+      "position": "PG",
+      "height": "6'6\"",
+      "archetype": "2-Way Blow-By Ace",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Max Strus",
+      "overall_rating": 77,
+      "position": "SF/SG",
+      "height": "6'5\"",
+      "archetype": "Shot-Creating Point Forward",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Larry Nance Jr.",
+      "overall_rating": 74,
+      "position": "C/PF",
+      "height": "6'8\"",
+      "archetype": "Ball-Hawking Rim Wrecker",
+      "jersey_number": "4"
+    },
+    {
+      "name": "Dean Wade",
+      "overall_rating": 74,
+      "position": "PF/SF",
+      "height": "6'9\"",
+      "archetype": "2-Way Stretch Lob Threat",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Sam Merrill",
+      "overall_rating": 74,
+      "position": "SG/PG",
+      "height": "6'4\"",
+      "archetype": "Diming Sharpshooter",
+      "jersey_number": "4"
+    },
+    {
+      "name": "Thomas Bryant",
+      "overall_rating": 73,
+      "position": "C",
+      "height": "6'10\"",
+      "archetype": "Crafty Stretch Five",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Craig Porter Jr.",
+      "overall_rating": 72,
+      "position": "PG",
+      "height": "6'1\"",
+      "archetype": "Shot-Erasing Sharpshooter",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Jaylon Tyson",
+      "overall_rating": 72,
+      "position": "SF/PF",
+      "height": "6'6\"",
+      "archetype": "3PT-Creating Crasher",
+      "jersey_number": "2"
+    },
+    {
+      "name": "Luke Travers",
+      "overall_rating": 69,
+      "position": "SF/PF",
+      "height": "6'7\"",
+      "archetype": "3PT Shot Hunter",
+      "jersey_number": "0",
+      "country": "Australia"
+    },
+    {
+      "name": "Chris Livingston",
+      "overall_rating": 69,
+      "position": "PF/SF",
+      "height": "6'6\"",
+      "archetype": "Rim-Running Rim Rocker",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Nae'Qwan Tomlin",
+      "overall_rating": 69,
+      "position": "PF",
+      "height": "6'9\"",
+      "archetype": "Inside-Out Slashing Crasher",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Tyrese Proctor",
+      "overall_rating": 69,
+      "position": "PG/SG",
+      "height": "6'5\"",
+      "archetype": "Combo Guard",
+      "jersey_number": "0",
+      "country": "Australia"
+    }
+  ],
+  "Denver Nuggets": [
+    {
+      "name": "Nikola Jokic",
+      "overall_rating": 98,
+      "position": "C",
+      "height": "6'11\"",
+      "archetype": "Triple-Double Threat",
+      "jersey_number": "24",
+      "country": "Serbia"
+    },
+    {
+      "name": "Jamal Murray",
+      "overall_rating": 86,
+      "position": "PG/SG",
+      "height": "6'4\"",
+      "archetype": "Crafty Walking Bucket",
+      "jersey_number": "18",
+      "country": "Canada"
+    },
+    {
+      "name": "Cameron Johnson",
+      "overall_rating": 83,
+      "position": "PF/SF",
+      "height": "6'8\"",
+      "archetype": "Crafty 3-Level Scorer",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Aaron Gordon",
+      "overall_rating": 82,
+      "position": "PF",
+      "height": "6'8\"",
+      "archetype": "2-Way 3-Level Scorer",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Christian Braun",
+      "overall_rating": 80,
+      "position": "SF/SG",
+      "height": "6'6\"",
+      "archetype": "Crafty 3-Level Scorer",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Tim Hardaway Jr.",
+      "overall_rating": 79,
+      "position": "SG/SF",
+      "height": "6'5\"",
+      "archetype": "Crafty 3PT Sniper",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Jonas Valanciunas",
+      "overall_rating": 78,
+      "position": "C",
+      "height": "6'11\"",
+      "archetype": "Physical Mid-Post Cleaner",
+      "jersey_number": "10",
+      "country": "Lithuania"
+    },
+    {
+      "name": "Bruce Brown",
+      "overall_rating": 76,
+      "position": "PG/SG",
+      "height": "6'4\"",
+      "archetype": "Physical 2-Way Combo Guard",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Peyton Watson",
+      "overall_rating": 75,
+      "position": "PF/SF",
+      "height": "6'7\"",
+      "archetype": "2-Way Blow-By Ace",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Julian Strawther",
+      "overall_rating": 74,
+      "position": "SG/SF",
+      "height": "6'6\"",
+      "archetype": "2-Way 3PT-Sniping Layup Artist",
+      "jersey_number": "0",
+      "country": "Puerto Rico"
+    },
+    {
+      "name": "Zeke Nnaji",
+      "overall_rating": 72,
+      "position": "C/PF",
+      "height": "6'9\"",
+      "archetype": "Shot Eraser",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Jalen Pickett",
+      "overall_rating": 71,
+      "position": "PG/SG",
+      "height": "6'2\"",
+      "archetype": "Crafty 3PT Sniper",
+      "jersey_number": "0"
+    },
+    {
+      "name": "DaRon Holmes II",
+      "overall_rating": 71,
+      "position": "PF/C",
+      "height": "6'10\"",
+      "archetype": "2-Way Stretch Lob Threat",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Hunter Tyson",
+      "overall_rating": 70,
+      "position": "PF/SF",
+      "height": "6'8\"",
+      "archetype": "3-Level Scorer",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Tamar Bates",
+      "overall_rating": 68,
+      "position": "PG/SG",
+      "height": "6'5\"",
+      "archetype": "Sharpshooter",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Curtis Jones",
+      "overall_rating": 68,
+      "position": "SG/PG",
+      "height": "6'4\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Spencer Jones",
+      "overall_rating": 67,
+      "position": "SF/SG",
+      "height": "6'7\"",
+      "archetype": "Sharpshooting Crasher",
+      "jersey_number": "0"
+    }
+  ],
+  "Philadelphia 76ers": [
+    {
+      "name": "Joel Embiid",
+      "overall_rating": 92,
+      "position": "C",
+      "height": "7'0\"",
+      "archetype": "2-Way Mid-Post Cleaner",
+      "jersey_number": "1",
+      "country": "Cameroon"
+    },
+    {
+      "name": "Tyrese Maxey",
+      "overall_rating": 86,
+      "position": "PG/SG",
+      "height": "6'2\"",
+      "archetype": "Ankle Taker",
+      "jersey_number": "16"
+    },
+    {
+      "name": "Paul George",
+      "overall_rating": 81,
+      "position": "SF/PF",
+      "height": "6'8\"",
+      "archetype": "Ball-Hawking Middy Playmaker",
+      "jersey_number": "20"
+    },
+    {
+      "name": "Quentin Grimes",
+      "overall_rating": 80,
+      "position": "SG/SF",
+      "height": "6'4\"",
+      "archetype": "Physical 3 & D Sniper",
+      "jersey_number": "11"
+    },
+    {
+      "name": "Jared McCain",
+      "overall_rating": 80,
+      "position": "SG/SF",
+      "height": "6'3\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "10"
+    },
+    {
+      "name": "Kelly Oubre Jr.",
+      "overall_rating": 78,
+      "position": "SF/SG",
+      "height": "6'8\"",
+      "archetype": "Dime-Dropping Dual Finisher",
+      "jersey_number": "13"
+    },
+    {
+      "name": "Andre Drummond",
+      "overall_rating": 76,
+      "position": "C",
+      "height": "6'11\"",
+      "archetype": "Ball-Snatching Lob Threat",
+      "jersey_number": "5"
+    },
+    {
+      "name": "VJ Edgecombe",
+      "overall_rating": 76,
+      "position": "SG",
+      "height": "6'5\"",
+      "archetype": "Ball-Hawking Blow-By Slasher",
+      "jersey_number": "3",
+      "country": "Bahamas"
+    },
+    {
+      "name": "Kyle Lowry",
+      "overall_rating": 75,
+      "position": "PG/SG",
+      "height": "6'0\"",
+      "archetype": "2-Way Mid-Range Menace",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Justin Edwards",
+      "overall_rating": 75,
+      "position": "SF/SG",
+      "height": "6'7\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Eric Gordon",
+      "overall_rating": 74,
+      "position": "SG/SF",
+      "height": "6'3\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "5",
+      "country": "Bahamas"
+    },
+    {
+      "name": "Adem Bona",
+      "overall_rating": 74,
+      "position": "C",
+      "height": "6'10\"",
+      "archetype": "Shot Eraser",
+      "jersey_number": "4",
+      "country": "Nigeria/Turkey"
+    },
+    {
+      "name": "Trendon Watford",
+      "overall_rating": 73,
+      "position": "PF/C",
+      "height": "6'8\"",
+      "archetype": "Physical Stretch Lob Threat",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Jabari Walker",
+      "overall_rating": 72,
+      "position": "PF/SF",
+      "height": "6'7\"",
+      "archetype": "Ball-Snatching Stretch Four",
+      "jersey_number": "4"
+    },
+    {
+      "name": "Dominick Barlow",
+      "overall_rating": 71,
+      "position": "C/PF",
+      "height": "6'8\"",
+      "archetype": "Shot-Erasing Putback Pro",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Johni Broome",
+      "overall_rating": 70,
+      "position": "PF/C",
+      "height": "6'10\"",
+      "archetype": "Shot-Erasing Middy Crasher",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Hunter Sallis",
+      "overall_rating": 68,
+      "position": "SG",
+      "height": "6'5\"",
+      "archetype": "Mid-Range Menace",
+      "jersey_number": "0"
+    }
+  ],
+  "Phoenix Suns": [
+    {
+      "name": "Devin Booker",
+      "overall_rating": 91,
+      "position": "PG/SG",
+      "height": "6'6\"",
+      "archetype": "Crafty Mid-Post Creator",
+      "jersey_number": "20"
+    },
+    {
+      "name": "Jalen Green",
+      "overall_rating": 83,
+      "position": "SG/PG",
+      "height": "6'4\"",
+      "archetype": "Blow-By Dual Finisher",
+      "jersey_number": "15",
+      "country": "Philippines"
+    },
+    {
+      "name": "Dillon Brooks",
+      "overall_rating": 79,
+      "position": "SF/PF",
+      "height": "6'6\"",
+      "archetype": "2-Way Off-Screen Shooter",
+      "jersey_number": "5",
+      "country": "Canada"
+    },
+    {
+      "name": "Mark Williams",
+      "overall_rating": 79,
+      "position": "C",
+      "height": "7'0\"",
+      "archetype": "Physical Lob Threat Cleaner",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Grayson Allen",
+      "overall_rating": 76,
+      "position": "SF/SG",
+      "height": "6'4\"",
+      "archetype": "Crafty 3PT-Sniping Creator",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Nick Richards",
+      "overall_rating": 76,
+      "position": "C",
+      "height": "7'0\"",
+      "archetype": "Board-Hunting Middy Scorer",
+      "jersey_number": "3",
+      "country": "Jamaica"
+    },
+    {
+      "name": "Royce O'Neale",
+      "overall_rating": 75,
+      "position": "SF/PF",
+      "height": "6'6\"",
+      "archetype": "2-Way Stretch Four",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Ryan Dunn",
+      "overall_rating": 75,
+      "position": "SF/PF",
+      "height": "6'8\"",
+      "archetype": "2-Way Finisher",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Khaman Maluach",
+      "overall_rating": 74,
+      "position": "C",
+      "height": "7'2\"",
+      "archetype": "Disruptive Lob Threat",
+      "jersey_number": "5",
+      "country": "South Sudan"
+    },
+    {
+      "name": "Jordan Goodwin",
+      "overall_rating": 73,
+      "position": "SG/PG",
+      "height": "6'4\"",
+      "archetype": "Ball-Hawking 3PT Dime-Dropper",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Collin Gillespie",
+      "overall_rating": 72,
+      "position": "PG",
+      "height": "6'1\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Oso Ighodaro",
+      "overall_rating": 72,
+      "position": "PF/C",
+      "height": "7'0\"",
+      "archetype": "Rim-Running Finisher",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Nigel Hayes-Davis",
+      "overall_rating": 72,
+      "position": "SF/SG",
+      "height": "6'8\"",
+      "archetype": "Ball-Hawking 3PT-Sniping Bully",
+      "jersey_number": "2"
+    },
+    {
+      "name": "Isaiah Livers",
+      "overall_rating": 71,
+      "position": "PF/SF",
+      "height": "6'6\"",
+      "archetype": "Mid-Range Menace",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Rasheer Fleming",
+      "overall_rating": 70,
+      "position": "PF/C",
+      "height": "6'9\"",
+      "archetype": "Skilled Stretch Four",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Kobe Brea",
+      "overall_rating": 68,
+      "position": "SG/SF",
+      "height": "6'7\"",
+      "archetype": "Diming Sharpshooter",
+      "jersey_number": "1",
+      "country": "Dominican Republic"
+    },
+    {
+      "name": "CJ Huntley",
+      "overall_rating": 68,
+      "position": "PF",
+      "height": "6'10\"",
+      "archetype": "Rim-Wrecking Putback Pro",
+      "jersey_number": "0"
+    }
+  ],
+  "Portland Trail Blazers": [
+    {
+      "name": "Damian Lillard",
+      "overall_rating": 88,
+      "position": "PG",
+      "height": "6'2\"",
+      "archetype": "Versatile Paint Bully",
+      "jersey_number": "18"
+    },
+    {
+      "name": "Deni Avdija",
+      "overall_rating": 82,
+      "position": "SF/PF",
+      "height": "6'9\"",
+      "archetype": "2-Way 3-Level Point Four",
+      "jersey_number": "16",
+      "country": "Israel"
+    },
+    {
+      "name": "Toumani Camara",
+      "overall_rating": 82,
+      "position": "PF/SF",
+      "height": "6'7\"",
+      "archetype": "Physical 3 & D Sniper",
+      "jersey_number": "11",
+      "country": "Belgium"
+    },
+    {
+      "name": "Jrue Holiday",
+      "overall_rating": 81,
+      "position": "PG/SG",
+      "height": "6'4\"",
+      "archetype": "2-Way Mid-Range Scorer",
+      "jersey_number": "17"
+    },
+    {
+      "name": "Shaedon Sharpe",
+      "overall_rating": 81,
+      "position": "SG/SF",
+      "height": "6'5\"",
+      "archetype": "Mid-Range High Flyer",
+      "jersey_number": "10",
+      "country": "Canada"
+    },
+    {
+      "name": "Jerami Grant",
+      "overall_rating": 79,
+      "position": "SF/PF",
+      "height": "6'7\"",
+      "archetype": "Versatile Paint Finisher",
+      "jersey_number": "9"
+    },
+    {
+      "name": "Scoot Henderson",
+      "overall_rating": 78,
+      "position": "PG/SG",
+      "height": "6'3\"",
+      "archetype": "Blow-By High Flyer",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Robert Williams III",
+      "overall_rating": 78,
+      "position": "C/PF",
+      "height": "6'9\"",
+      "archetype": "Backline Crafty Paint Finisher",
+      "jersey_number": "10"
+    },
+    {
+      "name": "Donovan Clingan",
+      "overall_rating": 77,
+      "position": "C",
+      "height": "7'2\"",
+      "archetype": "Glass Guardian Lob Threat",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Matisse Thybulle",
+      "overall_rating": 75,
+      "position": "SF/SG",
+      "height": "6'5\"",
+      "archetype": "Clamp Thief",
+      "jersey_number": "10",
+      "country": "Australia"
+    },
+    {
+      "name": "Kris Murray",
+      "overall_rating": 73,
+      "position": "SF/PF",
+      "height": "6'8\"",
+      "archetype": "Slashing Rim Rocker",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Rayan Rupert",
+      "overall_rating": 72,
+      "position": "SG/SF",
+      "height": "6'6\"",
+      "archetype": "2-Way Crafty Combo Guard",
+      "jersey_number": "0",
+      "country": "France"
+    },
+    {
+      "name": "Duop Reath",
+      "overall_rating": 72,
+      "position": "C",
+      "height": "6'9\"",
+      "archetype": "Crafty Stretch Five",
+      "jersey_number": "2",
+      "country": "Australia/South Sudan"
+    },
+    {
+      "name": "Blake Wesley",
+      "overall_rating": 71,
+      "position": "PG/SG",
+      "height": "6'3\"",
+      "archetype": "Ball-Hawking High Flyer",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Sidy Cissoko",
+      "overall_rating": 70,
+      "position": "SF/PF",
+      "height": "6'6\"",
+      "archetype": "Ball-Hawking High Flyer",
+      "jersey_number": "0",
+      "country": "France"
+    },
+    {
+      "name": "Yang Hansen",
+      "overall_rating": 70,
+      "position": "C",
+      "height": "7'2\"",
+      "archetype": "Diming Inside-Out Scorer",
+      "jersey_number": "0",
+      "country": "China"
+    },
+    {
+      "name": "Caleb Love",
+      "overall_rating": 68,
+      "position": "SG",
+      "height": "6'4\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Javonte Cooke",
+      "overall_rating": 68,
+      "position": "SG",
+      "height": "6'6\"",
+      "archetype": "Crafty Iso Savant",
+      "jersey_number": "0"
+    }
+  ],
+  "Sacramento Kings": [
+    {
+      "name": "Domantas Sabonis",
+      "overall_rating": 87,
+      "position": "C",
+      "height": "6'10\"",
+      "archetype": "Triple-Double Threat",
+      "jersey_number": "16",
+      "country": "Lithuania"
+    },
+    {
+      "name": "Zach LaVine",
+      "overall_rating": 85,
+      "position": "SG/SF",
+      "height": "6'5\"",
+      "archetype": "Inside-Out Combo Guard",
+      "jersey_number": "14"
+    },
+    {
+      "name": "DeMar DeRozan",
+      "overall_rating": 85,
+      "position": "SF/PF",
+      "height": "6'6\"",
+      "archetype": "Mid-Post Creator",
+      "jersey_number": "16"
+    },
+    {
+      "name": "Keegan Murray",
+      "overall_rating": 80,
+      "position": "PF/SF",
+      "height": "6'8\"",
+      "archetype": "2-Way Inside-Out Creator",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Malik Monk",
+      "overall_rating": 80,
+      "position": "SG",
+      "height": "6'3\"",
+      "archetype": "Mid-Paint Scorer",
+      "jersey_number": "12"
+    },
+    {
+      "name": "Russell Westbrook",
+      "overall_rating": 80,
+      "position": "PG",
+      "height": "6'4\"",
+      "archetype": "Explosive Blow-By High Flyer",
+      "jersey_number": "10"
+    },
+    {
+      "name": "Dennis Schroder",
+      "overall_rating": 78,
+      "position": "PG/SG",
+      "height": "6'1\"",
+      "archetype": "Mid-Range Menace",
+      "jersey_number": "10",
+      "country": "Germany"
+    },
+    {
+      "name": "Keon Ellis",
+      "overall_rating": 76,
+      "position": "SG/PG",
+      "height": "6'4\"",
+      "archetype": "2-Way Chaos Trigger",
+      "jersey_number": "7"
+    },
+    {
+      "name": "Dario Saric",
+      "overall_rating": 74,
+      "position": "PF/C",
+      "height": "6'10\"",
+      "archetype": "2-Way Post-Scoring Dimer",
+      "jersey_number": "3",
+      "country": "Croatia"
+    },
+    {
+      "name": "Drew Eubanks",
+      "overall_rating": 74,
+      "position": "C",
+      "height": "6'10\"",
+      "archetype": "Rim-Reaping Stretch Five",
+      "jersey_number": "4"
+    },
+    {
+      "name": "Devin Carter",
+      "overall_rating": 74,
+      "position": "PG/SF",
+      "height": "6'2\"",
+      "archetype": "Ball-Hawking Blow-By Slasher",
+      "jersey_number": "1"
+    },
+    {
+      "name": "Doug McDermott",
+      "overall_rating": 71,
+      "position": "PF/SF",
+      "height": "6'6\"",
+      "archetype": "Crafty 3-Level Scorer",
+      "jersey_number": "2"
+    },
+    {
+      "name": "Isaac Jones",
+      "overall_rating": 71,
+      "position": "PF/C",
+      "height": "6'9\"",
+      "archetype": "Shot-Erasing Putback Pro",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Nique Clifford",
+      "overall_rating": 71,
+      "position": "SG",
+      "height": "6'5\"",
+      "archetype": "3PT Shot Hunter",
+      "jersey_number": "1"
+    },
+    {
+      "name": "Maxime Raynaud",
+      "overall_rating": 70,
+      "position": "C",
+      "height": "7'1\"",
+      "archetype": "Stretch Five",
+      "jersey_number": "0",
+      "country": "France"
+    },
+    {
+      "name": "Daeqwon Plowden",
+      "overall_rating": 68,
+      "position": "SF/SG",
+      "height": "6'6\"",
+      "archetype": "Blow-By High Flyer",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Isaiah Stevens",
+      "overall_rating": 68,
+      "position": "PG/SG",
+      "height": "6'0\"",
+      "archetype": "Speedy Blow-By Ace",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Dylan Cardwell",
+      "overall_rating": 68,
+      "position": "C",
+      "height": "6'11\"",
+      "archetype": "Yamming Force of Nature",
+      "jersey_number": "1"
+    }
+  ],
+  "San Antonio Spurs": [
+    {
+      "name": "Victor Wembanyama",
+      "overall_rating": 94,
+      "position": "C/PF",
+      "height": "7'3\"",
+      "archetype": "Backline Stretch Post Scorer",
+      "jersey_number": "22",
+      "country": "France"
+    },
+    {
+      "name": "De'Aaron Fox",
+      "overall_rating": 85,
+      "position": "PG",
+      "height": "6'3\"",
+      "archetype": "2-Way Blow-By Finisher",
+      "jersey_number": "18"
+    },
+    {
+      "name": "Stephon Castle",
+      "overall_rating": 82,
+      "position": "SG/PG",
+      "height": "6'6\"",
+      "archetype": "2-Way Slashing Combo Guard",
+      "jersey_number": "13"
+    },
+    {
+      "name": "Devin Vassell",
+      "overall_rating": 81,
+      "position": "SG/SF",
+      "height": "6'5\"",
+      "archetype": "Point-Fading Wizard",
+      "jersey_number": "10"
+    },
+    {
+      "name": "Dylan Harper",
+      "overall_rating": 78,
+      "position": "SG/PG",
+      "height": "6'6\"",
+      "archetype": "Blow-By Dual Finisher",
+      "jersey_number": "6",
+      "country": "Philippines"
+    },
+    {
+      "name": "Harrison Barnes",
+      "overall_rating": 78,
+      "position": "SF/PF",
+      "height": "6'8\"",
+      "archetype": "Ankle Taker",
+      "jersey_number": "9"
+    },
+    {
+      "name": "Keldon Johnson",
+      "overall_rating": 78,
+      "position": "SF/PF",
+      "height": "6'5\"",
+      "archetype": "Crafty Mid-Range Menace",
+      "jersey_number": "8"
+    },
+    {
+      "name": "Jeremy Sochan",
+      "overall_rating": 77,
+      "position": "PF/PG",
+      "height": "6'8\"",
+      "archetype": "Crafty Laymaking Point Four",
+      "jersey_number": "8",
+      "country": "Poland"
+    },
+    {
+      "name": "Kelly Olynyk",
+      "overall_rating": 76,
+      "position": "C/PF",
+      "height": "6'11\"",
+      "archetype": "Crafty Post-Scoring Stretch",
+      "jersey_number": "7",
+      "country": "Canada"
+    },
+    {
+      "name": "Luke Kornet",
+      "overall_rating": 76,
+      "position": "C",
+      "height": "7'1\"",
+      "archetype": "Shot-Erasing Crasher",
+      "jersey_number": "11"
+    },
+    {
+      "name": "Lindy Waters III",
+      "overall_rating": 73,
+      "position": "SG/SF",
+      "height": "6'6\"",
+      "archetype": "Crafty Sharpshooter",
+      "jersey_number": "2"
+    },
+    {
+      "name": "Julian Champagnie",
+      "overall_rating": 72,
+      "position": "SF/SG",
+      "height": "6'7\"",
+      "archetype": "Crafty 3PT Sniper",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Jordan McLaughlin",
+      "overall_rating": 72,
+      "position": "PG",
+      "height": "6'0\"",
+      "archetype": "Ball-Hawking 3PT Shot Hunter",
+      "jersey_number": "3"
+    },
+    {
+      "name": "Carter Bryant",
+      "overall_rating": 72,
+      "position": "SF",
+      "height": "6'8\"",
+      "archetype": "Athletic Blow-By Ace",
+      "jersey_number": "2"
+    },
+    {
+      "name": "Harrison Ingram",
+      "overall_rating": 69,
+      "position": "PF/SF",
+      "height": "6'5\"",
+      "archetype": "Skilled Stretch Four",
+      "jersey_number": "0"
+    },
+    {
+      "name": "David Jones-Garcia",
+      "overall_rating": 68,
+      "position": "SF/SG",
+      "height": "6'6\"",
+      "archetype": "High-Flying 3PT Sniper",
+      "jersey_number": "0",
+      "country": "Dominican Republic"
+    },
+    {
+      "name": "Riley Minix",
+      "overall_rating": 67,
+      "position": "SF/PF",
+      "height": "6'7\"",
+      "archetype": "Sharpshooting Crasher",
+      "jersey_number": "0"
+    }
+  ],
+  "Washington Wizards": [
+    {
+      "name": "C.J. McCollum",
+      "overall_rating": 81,
+      "position": "PG/SG",
+      "height": "6'3\"",
+      "archetype": "Crafty 3PT-Sniping Creator",
+      "jersey_number": "14"
+    },
+    {
+      "name": "Alexandre Sarr",
+      "overall_rating": 81,
+      "position": "PF/C",
+      "height": "7'0\"",
+      "archetype": "Shot-Erasing Versatile Slasher",
+      "jersey_number": "7",
+      "country": "France"
+    },
+    {
+      "name": "Khris Middleton",
+      "overall_rating": 79,
+      "position": "SF/PF",
+      "height": "6'7\"",
+      "archetype": "Mid-Paint Bully",
+      "jersey_number": "10"
+    },
+    {
+      "name": "Bub Carrington",
+      "overall_rating": 78,
+      "position": "PG/SG",
+      "height": "6'4\"",
+      "archetype": "Point-Fading Wizard",
+      "jersey_number": "10"
+    },
+    {
+      "name": "Bilal Coulibaly",
+      "overall_rating": 78,
+      "position": "SG/SF",
+      "height": "6'8\"",
+      "archetype": "2-Way Bulldozer",
+      "jersey_number": "11",
+      "country": "France"
+    },
+    {
+      "name": "KyShawn George",
+      "overall_rating": 77,
+      "position": "SF/PF",
+      "height": "6'8\"",
+      "archetype": "Crafty Skilled Stretch Four",
+      "jersey_number": "6",
+      "country": "Switzerland"
+    },
+    {
+      "name": "Corey Kispert",
+      "overall_rating": 77,
+      "position": "SG/SF",
+      "height": "6'6\"",
+      "archetype": "Crafty Sharpshooter",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Cam Whitmore",
+      "overall_rating": 75,
+      "position": "SF/PF",
+      "height": "6'7\"",
+      "archetype": "Physical Mid-Range Menace",
+      "jersey_number": "8"
+    },
+    {
+      "name": "Tre Johnson",
+      "overall_rating": 75,
+      "position": "SG",
+      "height": "6'6\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Justin Champagnie",
+      "overall_rating": 74,
+      "position": "SF/SG",
+      "height": "6'6\"",
+      "archetype": "Crafty Stretch Ball Hawk",
+      "jersey_number": "6"
+    },
+    {
+      "name": "AJ Johnson",
+      "overall_rating": 74,
+      "position": "SG/PG",
+      "height": "6'5\"",
+      "archetype": "Crafty Blow-By Dual Finisher",
+      "jersey_number": "6"
+    },
+    {
+      "name": "Marvin Bagley III",
+      "overall_rating": 73,
+      "position": "C/PF",
+      "height": "6'10\"",
+      "archetype": "Possession Extender",
+      "jersey_number": "5"
+    },
+    {
+      "name": "Tristan Vukcevic",
+      "overall_rating": 71,
+      "position": "C/PF",
+      "height": "6'10\"",
+      "archetype": "Rim-Reaping Stretch Five",
+      "jersey_number": "4",
+      "country": "Serbia"
+    },
+    {
+      "name": "Malaki Branham",
+      "overall_rating": 71,
+      "position": "SG/PG",
+      "height": "6'4\"",
+      "archetype": "Inside-Out High-Flying Slasher",
+      "jersey_number": "4"
+    },
+    {
+      "name": "Sharife Cooper",
+      "overall_rating": 71,
+      "position": "PG",
+      "height": "6'1\"",
+      "archetype": "Speedy Playmaker",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Anthony Gill",
+      "overall_rating": 71,
+      "position": "PF/C",
+      "height": "6'8\"",
+      "archetype": "Crafty Mashing Four",
+      "jersey_number": "0"
+    },
+    {
+      "name": "Will Riley",
+      "overall_rating": 70,
+      "position": "SF",
+      "height": "6'8\"",
+      "archetype": "Iso Sniper",
+      "jersey_number": "1",
+      "country": "Canada"
+    },
+    {
+      "name": "Jamir Watkins",
+      "overall_rating": 69,
+      "position": "SG",
+      "height": "6'7\"",
+      "archetype": "High-Flying Slasher",
+      "jersey_number": "0"
+    }
+  ]
+}
+
