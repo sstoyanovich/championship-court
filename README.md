@@ -1,5 +1,7 @@
 # Championship Court - NBA Card Collection Game
 
+-- This is a purely Vibe coded project, to test the limits and capabilities of ai. I made little to no edits to any of the code that was produced
+
 A web application inspired by MLB The Show's Diamond Dynasty mode, designed for NBA card collecting. Built with Laravel (backend) and Vue 3 (frontend).
 
 ## Features
