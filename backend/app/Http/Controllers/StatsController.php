@@ -38,8 +38,25 @@ class StatsController extends Controller
         try {
             // Store the uploaded image
             $image = $request->file('screenshot');
+            
+            if (!$image || !$image->isValid()) {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Invalid image file. Please upload a valid image (JPEG, PNG, JPG, or GIF).',
+                ], 400);
+            }
+            
             $imagePath = $image->store('screenshots', 'public');
             $fullPath = storage_path('app/public/' . $imagePath);
+
+            // Verify the file was stored successfully
+            if (!file_exists($fullPath)) {
+                Log::error('Image file not found after storage', ['path' => $fullPath]);
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Failed to save image file. Please try again.',
+                ], 500);
+            }
 
             // Extract text using OCR
             $ocrText = $this->ocrService->extractTextFromImage($fullPath);
@@ -99,12 +116,19 @@ class StatsController extends Controller
                 ],
             ]);
         } catch (\Exception $e) {
-            Log::error('Screenshot processing failed: ' . $e->getMessage());
+            Log::error('Screenshot processing failed: ' . $e->getMessage(), [
+                'trace' => $e->getTraceAsString(),
+            ]);
+
+            // Include more detailed error message in development
+            $errorMessage = config('app.debug') 
+                ? 'Failed to process screenshot: ' . $e->getMessage()
+                : 'Failed to process screenshot. Please check that the image is valid and try again.';
 
             return response()->json([
                 'success' => false,
-                'message' => 'Failed to process screenshot',
-                'error' => $e->getMessage(),
+                'message' => $errorMessage,
+                'error' => config('app.debug') ? $e->getMessage() : null,
             ], 500);
         }
     }

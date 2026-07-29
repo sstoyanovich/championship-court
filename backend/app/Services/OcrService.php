@@ -13,6 +13,22 @@ class OcrService
     public function extractTextFromImage(string $imagePath): string
     {
         try {
+            // Verify image file exists
+            if (!file_exists($imagePath)) {
+                throw new \Exception("Image file not found at path: {$imagePath}");
+            }
+
+            // Verify file is readable
+            if (!is_readable($imagePath)) {
+                throw new \Exception("Image file is not readable: {$imagePath}");
+            }
+
+            // Verify it's a valid image file
+            $imageInfo = @getimagesize($imagePath);
+            if ($imageInfo === false) {
+                throw new \Exception("Invalid image file format. Please upload a valid image (JPEG, PNG, JPG, or GIF).");
+            }
+
             // Try preprocessing the image for better OCR results
             $preprocessedPath = $this->preprocessImage($imagePath);
 
@@ -39,8 +55,19 @@ class OcrService
             Log::info('OCR Extracted Text (cleaned):', ['text' => $text]);
 
             return $text;
+        } catch (\thiagoalessio\TesseractOCR\TesseractOCRException $e) {
+            Log::error('Tesseract OCR error: ' . $e->getMessage());
+            // Check if Tesseract is installed
+            $tesseractPath = shell_exec('which tesseract 2>&1');
+            if (empty($tesseractPath) || strpos($tesseractPath, 'not found') !== false) {
+                throw new \Exception('Tesseract OCR is not installed or not found in PATH. Please install Tesseract OCR to process screenshots.');
+            }
+            throw new \Exception('OCR processing failed: ' . $e->getMessage());
         } catch (\Exception $e) {
-            Log::error('OCR extraction failed: ' . $e->getMessage());
+            Log::error('OCR extraction failed: ' . $e->getMessage(), [
+                'image_path' => $imagePath,
+                'trace' => $e->getTraceAsString(),
+            ]);
             throw new \Exception('Failed to extract text from image: ' . $e->getMessage());
         }
     }

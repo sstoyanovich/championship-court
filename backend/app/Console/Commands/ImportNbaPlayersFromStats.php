@@ -25,16 +25,30 @@ class ImportNbaPlayersFromStats extends Command
             return 1;
         }
 
-        // Check if nba_api is installed
-        $this->info('Checking Python dependencies...');
-        $checkCmd = 'python3 -c "import nba_api" 2>&1';
-        exec($checkCmd, $output, $returnCode);
+        // Check for virtual environment
+        $venvPath = base_path('scripts/venv');
+        $pythonCmd = 'python3';
+        
+        if (is_dir($venvPath)) {
+            // Use virtual environment Python
+            $pythonCmd = $venvPath . '/bin/python';
+            $this->info('Using virtual environment Python');
+        } else {
+            // Check if nba_api is installed in system Python
+            $this->info('Checking Python dependencies...');
+            $checkCmd = 'python3 -c "import nba_api" 2>&1';
+            exec($checkCmd, $output, $returnCode);
 
-        if ($returnCode !== 0) {
-            $this->error('nba_api package not found!');
-            $this->info('Please install it with: pip3 install nba-api');
-            return 1;
+            if ($returnCode !== 0) {
+                $this->error('nba_api package not found!');
+                $this->info('Please create a virtual environment:');
+                $this->info('  cd backend/scripts && python3 -m venv venv');
+                $this->info('  source venv/bin/activate');
+                $this->info('  pip install -r requirements.txt');
+                return 1;
+            }
         }
+        
         $this->info('✓ Python dependencies OK');
         $this->newLine();
 
@@ -43,7 +57,7 @@ class ImportNbaPlayersFromStats extends Command
         $this->info('This may take several minutes due to API rate limiting...');
         $this->newLine();
 
-        $command = "cd " . base_path('scripts') . " && python3 generate_players_from_stats.py 2>&1";
+        $command = "cd " . base_path('scripts') . " && " . escapeshellarg($pythonCmd) . " generate_players_from_stats.py 2>&1";
 
         $process = proc_open($command, [
             1 => ['pipe', 'w'], // stdout

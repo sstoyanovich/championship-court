@@ -747,8 +747,13 @@ const uploadScreenshot = async () => {
     }
   } catch (error) {
     console.error("Upload failed:", error);
-    errorMessage.value =
-      error.response?.data?.message || "Failed to upload screenshot. Please try again.";
+    // Show detailed error message if available
+    const errorMsg =
+      error.response?.data?.message ||
+      error.response?.data?.error ||
+      error.message ||
+      "Failed to upload screenshot. Please try again.";
+    errorMessage.value = errorMsg;
   } finally {
     isUploading.value = false;
   }
